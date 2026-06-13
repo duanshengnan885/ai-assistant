@@ -1,0 +1,10 @@
+﻿/.venv
+/api_credentials.json
+/app_config.json
+/chat_sessions.json
+/__pycache__
+/build
+/dist
+.token_tracker.json
+.balance_snapshot.json
+debug_js.log

@@ -1,0 +1,26 @@
+{
+  "name": "ai-assistant",
+  "version": "1.0.0",
+  "description": "AI-powered desktop workstation assistant with multi-model support",
+  "author": {
+    "name": "ikun",
+    "email": "ikun@example.com",
+    "url": "https://github.com/ikun"
+  },
+  "license": "MIT",
+  "keywords": ["ai", "desktop", "assistant", "deepseek", "chatbot"],
+  "interface": {
+    "displayName": "AI Assistant",
+    "shortDescription": "AI-powered desktop assistant with multi-model support",
+    "longDescription": "A desktop AI workstation assistant built with Python and webview. Supports multiple AI models, chat sessions, PowerShell integration, and a configurable dark/light theme.",
+    "developerName": "ikun",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Help me analyze this code and suggest improvements.",
+      "Summarize my chat sessions and find key insights.",
+      "Run a PowerShell command to check system status."
+    ],
+    "brandColor": "#3B82F6"
+  }
+}
